@@ -10,7 +10,7 @@ Sorts all the recipes according to number of calories present in the recipe.
 2. (a) You can run this code in debug mode in Android studio or..
 
 
-   (b) You can directly install the APK file on your mobile phones.
+   (b) You can directly install the app-debug.apk file on your mobile phones.
 
 
 ## APIs Used
