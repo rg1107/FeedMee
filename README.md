@@ -7,7 +7,9 @@ Sorts all the recipes according to number of calories present in the recipe.
 
 1. Clone this repository into your system.
 
-2. (a) You can run this code in debug mode in Android studio or.. 
+2. (a) You can run this code in debug mode in Android studio or..
+
+
    (b) You can directly install the APK file on your mobile phones.
 
 
